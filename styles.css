@@ -1,0 +1,82 @@
+.h1 {
+    font-family: 'Merriweather', serif;
+    color: #081345;
+    font-size: 2em;
+    font-weight: 600;
+  }
+  
+  .h2 {
+    font-family: 'Merriweather', serif;
+    color: #081345;
+    font-size: 1.5em;
+    font-weight: 550;
+  }
+  
+  p {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  a {
+      color: #1837C4;
+  }
+  
+/* DIVs */
+
+  .color {
+    border: solid 2px #43444A;
+    padding: 5px;
+    margin: 3px auto;
+    position: relative;
+  }
+  
+  .font {
+    border: solid 2px #081345;
+    padding: 5px;
+    margin: 3px auto;
+    position: relative;
+  }
+  
+  .textstyle {
+    border: solid 2px #43444A;
+    padding: 5px;
+    margin: 3px auto;
+    position: relative;
+  }
+  
+/* Colors */
+
+  .deepbluesea p {
+    background-color: #081345;
+    color: #B1BBDF;
+  }
+  
+  .coolblue p {
+    background-color: #B1BBDF;
+    color: #081345;
+  }
+  
+  .royalblue p {
+    background-color: #1837C4;
+    color: #B1BBDF;
+  }
+  
+  .slategrayblue p {
+    background-color: #43444A;
+    color: #B1BBDF;
+  }
+  
+/* Fonts */
+
+  .merri {
+    font-family: 'Merriweather', serif;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
